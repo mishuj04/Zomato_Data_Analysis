@@ -58,6 +58,3 @@ This project analyzes restaurant data with the following key features:
 - **Buffets have the highest per person cost**  
 - **Mid-range priced restaurants** achieve the **best ratings**  
 
-
-
-## 📂 Project Structure  
